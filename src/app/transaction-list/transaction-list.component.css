@@ -1,0 +1,23 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-bottom: 20px;
+    border: 1px solid hsl(0, 0%, 82%);
+    background-color: white;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+  }
+  
+  th {
+    background-color: lightgray;
+    font-weight: bold;
+    text-align: left;
+    padding: 10px;
+    border: 1px solid lightgray;
+  }
+  
+  td {
+    text-align: left;
+    padding: 10px;
+    border: 1px solid lightgray;
+  }
